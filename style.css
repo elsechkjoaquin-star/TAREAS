@@ -1,0 +1,13 @@
+p {
+    color: blue;
+}
+
+.parrafo {
+    color: red;
+    width: 250px;
+}
+.img {
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
